@@ -12,10 +12,15 @@
   },
   "devDependencies": {
     "cross-env": "^5.1",
-    "laravel-mix": "^2.0",
-    "tar": "^4.4.10",
+    "laravel-mix": "^5.0.9",
     "opencollective": "^1.0.3",
     "opencollective-postinstall": "^2.0.2",
+    "postcss": "^8.5.6",
+    "sass": "^1.89.2",
+    "sass-loader": "^10.5.2",
+    "tar": "^4.4.10",
+    "vue-loader": "^15.11.1",
+    "vue-template-compiler": "^2.7.16",
     "webpack-dev-server": "^3.7.2"
   },
   "dependencies": {
