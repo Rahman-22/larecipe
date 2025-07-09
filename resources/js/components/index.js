@@ -1,13 +1,13 @@
 import ClickOutside from './click-outside';
 
-import AlgoliaSearchBox from "./AlgoliaSearchBox";
-import InternalSearchBox from "./InternalSearchBox";
-import LarecipeBackToTop from "./LarecipeBackToTop";
-import LarecipeBadge from "./LarecipeBadge";
-import LarecipeButton from "./LarecipeButton";
-import LarecipeCard from "./LarecipeCard";
-import LarecipeDropdown from "./LarecipeDropdown";
-import LarecipeProgress from "./LarecipeProgress";
+import AlgoliaSearchBox from "./AlgoliaSearchBox.vue";
+import InternalSearchBox from "./InternalSearchBox.vue";
+import LarecipeBackToTop from "./LarecipeBackToTop.vue";
+import LarecipeBadge from "./LarecipeBadge.vue";
+import LarecipeButton from "./LarecipeButton.vue";
+import LarecipeCard from "./LarecipeCard.vue";
+import LarecipeDropdown from "./LarecipeDropdown.vue";
+import LarecipeProgress from "./LarecipeProgress.vue";
 
 export default {
   install(Vue) {
